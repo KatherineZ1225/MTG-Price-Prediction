@@ -1,15 +1,6 @@
-# Data Science Project Template
-
-Template adapted from [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
-
-
-
-## Convention
-
-Following this directory structure
 ```
-|--project_name                           <- Project root level that is checked into github
-  |--3. MTG Price                              <- Project folder
+|-- MTG Price Pirdection                  <- Project root level that is checked into github
+  |--3. MTG Price                         <- Project folder
     |--README.md                          <- Top-level README for developers
     |--volume
     |   |--data
